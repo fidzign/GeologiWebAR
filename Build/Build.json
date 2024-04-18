@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Unity-WebXR-Export",
+"companyName": "artimu",
+"productName": "Museum-WebAR-Export",
 "productVersion": "0.1",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm",
